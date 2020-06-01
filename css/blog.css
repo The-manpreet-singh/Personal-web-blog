@@ -37,11 +37,11 @@ p a:hover {
 
 /* content */
 
-header {
+.img {
   grid-area: hd;
   width: 100%;
   height: auto;
-  background-image: url("../img/image7.jpg");
+  background-image: url("../images/wonders-1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -67,8 +67,6 @@ footer {
   text-align: center;
 }
 
-/* author info */
-
 .meta {
   text-align: center;
 }
@@ -81,24 +79,6 @@ footer {
   text-align: center;
 }
 
-.author-info {
-  width: 100%;
-  height: auto;
-  background-color: #1caee7;
-  padding: 10px;
-  display: flex;
-  flex-flow: column wrap;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.author-info p {
-  margin: 0;
-}
-
-.author-info-text {
-  width: 100%;
-}
 
 .circle-frame {
   display: flex;
@@ -108,31 +88,7 @@ footer {
   padding: 10px 20px;
 }
 
-.author-info-img {
-  border-radius: 50%;
-  width: 100%;
-  height: auto;
-  min-width: 100px;
-  max-width: 200px;
-  object-fit: cover;
-}
 
-@media (min-width: 1000px) {
-  .author-info {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .circle-frame {
-    width: 40%;
-  }
-
-  .author-info-text {
-    width: 60%;
-  }
-}
 
 /* blog image */
 
@@ -153,7 +109,7 @@ footer {
 /* post suggestion */
 
 hr {
-  border-top: 1px solid #e54b4b;
+  border-top: 1px solid#0078ff;;
   margin: 20px 0;
 }
 
@@ -167,9 +123,7 @@ hr {
   text-align: center;
 }
 
-.post-suggestions h4 {
-  width: 100%;
-}
+
 
 .suggestion-card {
   width: 30%;

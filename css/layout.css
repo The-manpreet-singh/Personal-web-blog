@@ -59,7 +59,7 @@
   a {
     outline: none;
     text-decoration: none;
-    color: #86a578;
+    color: #000;
   }
   
   a:visited {
@@ -67,7 +67,7 @@
   }
   
   a:hover {
-    color: #e54b4b;
+    color: #0078ff;
   }
   
   strong {
@@ -133,46 +133,45 @@
   
   .btn-primary {
     background-color: transparent;
-    border: 2px solid #f6aa1c;
+    border: 2px solid #0078ff;;
     border-radius: 3px;
-    color: #f6aa1c;
+    color: #0078ff;
     transition: all 0.3s;
   }
   
   .btn-primary:hover {
-    background-color: #f6aa1c;
-    border: 2px solid #f6aa1c;
+    background-color: #0078ff;
+    border: 2px solid #0078ff;
     border-radius: 3px;
     color: #fffaf0;
     transform: scale(0.9);
   }
   
   .btn-primary:active {
-    background-color: #f6aa1c;
-    border: 2px solid #f6aa1c;
+    color: #0078ff;
     border-radius: 3px;
     color: #fffaf0;
     transform: scale(0.9);
   }
   
   .btn-secondary {
-    background-color: #e54b4b;
-    border: 2px solid #e54b4b;
+    background-color: #0078ff;
+    border: 2px solid #0078ff;
     color: #fffaf0;
     transition: all 0.3s;
   }
   
   .btn-secondary:hover {
     background-color: transparent;
-    border: 2px solid #e54b4b;
-    color: #e54b4b;
+    border: 2px solid #0078ff;
+    color: #0078ff;
     transform: scale(0.9);
   }
   
   .btn-secondary:active {
     background-color: transparent;
-    border: 2px solid #e54b4b;
-    color: #e54b4b;
+    border: 2px solid #0078ff;
+    color: #0078ff;
     transform: scale(0.9);
   }
   
