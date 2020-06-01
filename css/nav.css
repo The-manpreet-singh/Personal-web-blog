@@ -1,8 +1,8 @@
-/* navigation */
+/* nav-bar */
 
 nav {
     grid-area: nav;
-    background-color: rgb(3, 144, 187);
+    background-color: #0078ff;
     display: flex;
     flex-flow: row wrap;
     width: 100%;

@@ -8,5 +8,7 @@ footer {
   
   .fab {
     padding: 5px;
-  }
-  
+    font-size: 20px;
+    color: #0078ff;
+    margin: auto;
+}
