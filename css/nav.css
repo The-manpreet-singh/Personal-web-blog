@@ -2,7 +2,7 @@
 
 nav {
     grid-area: nav;
-    background-color: #0078ff;
+    background-color: #00a6ff;
     display: flex;
     flex-flow: row wrap;
     width: 100%;

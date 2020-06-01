@@ -8,12 +8,14 @@ footer {
   
   .iconify {
     font-size: 20px;
-    color: #0078ff;
+    color: #00a6ff
+;
     margin-left:5px;
 }
 .iconify:hover {
     font-size: 20px;
-    background-color: #0078ff;
+    background-color: #00a6ff
+;
     color: black;
     margin-left:5px;
 }
