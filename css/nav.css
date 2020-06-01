@@ -10,7 +10,7 @@ nav {
     padding: 10px;
   }
   
-  #nav-flex-title {
+  #nav-flex-logo {
     display: flex;
     font-family: "Lucida" Grande, sans-serif;
     font-size: 1.5em;
@@ -22,7 +22,7 @@ nav {
     align-items: center;
   }
   
-  #title {
+  #logo {
     font-size: 1.2em;
     text-align: center;
     margin-left: 0;
@@ -55,6 +55,7 @@ nav {
   
   .nav-item > a {
     color: #222;
+    font-weight:700 ;
     padding: 8px 20px;
     border-radius: 2px;
   }
@@ -80,7 +81,7 @@ nav {
       height: 60px;
     }
   
-    #nav-flex-title {
+    #nav-flex-logo {
       display: flex;
       flex-flow: row wrap;
       width: 40%;
@@ -88,7 +89,7 @@ nav {
       align-items: center;
     }
   
-    #title {
+    #logo {
       font-size: 1.2em;
       text-align: center;
       margin-left: 0;

@@ -6,9 +6,14 @@ footer {
     text-align: center;
   }
   
-  .fab {
-    padding: 5px;
-    font-size: 20px;
+  .iconify {
+    font-size: 30px;
     color: #0078ff;
-    margin: auto;
+    margin-left:5px;
+}
+.iconify:hover {
+    font-size: 30px;
+    background-color: #0078ff;
+    color: black;
+    margin-left:5px;
 }
